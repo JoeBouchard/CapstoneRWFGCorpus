@@ -1,5 +1,5 @@
 # Reddit-Wikipedia-Fanfiction-GroupMe (RWFG)Corpus
-This repository contains the data used for my research project "Hallmarks of Linguistic Register when Writing on the Internet". It contains 400,000 sentences from 16 sources, each source in its own named .txt file. The sources are: 
+This repository contains the data used for my research project "Hallmarks of Linguistic Register when Writing on the Internet". It contains between 200,000 and 400,000 each sentences from 16 sources, with the sources all in their own named .txt file. The sources are: 
 * r/Relationships
 * r/Confessions
 * r/TIFU (short for “Today I F\*d Up”)
