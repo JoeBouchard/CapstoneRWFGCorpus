@@ -17,4 +17,4 @@ This repository contains the data used for my undergraduate research project "A 
 * Fanfiction.net
 * GroupMe messages (anonymous)
 
-The final paper with a more detailed methodology of the acquisition of this data can be found at doi.org/10.13140/RG.2.2.11142.50246.
+The final paper with a more detailed methodology of the acquisition of this data can be found at [on ResearchGate](doi.org/10.13140/RG.2.2.11142.50246).
